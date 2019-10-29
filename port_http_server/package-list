@@ -1,0 +1,6 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+com.hexagonkt.http.server
+com.hexagonkt.http.server.examples
+com.hexagonkt.http.server.test
